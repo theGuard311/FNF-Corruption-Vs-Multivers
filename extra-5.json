@@ -1,0 +1,32 @@
+{
+	"storyName": "one left",
+	"difficulties": "evil",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "the-end",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"gf",
+		"dad",
+		"bf"
+	],
+	"songs": [
+		[
+			"dream-of-killing",
+			"Azzy-killer",
+			[
+				142,
+				196,
+				106
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "the-end",
+	"hiddenUntilUnlocked": false
+}

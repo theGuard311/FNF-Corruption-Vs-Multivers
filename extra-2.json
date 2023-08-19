@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"uproar",
+			"soul-bf",
+			[
+				40,
+				40,
+				40
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "evil",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "frisk",
+	"startUnlocked": true
+}

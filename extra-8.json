@@ -1,0 +1,32 @@
+{
+	"storyName": "one left",
+	"difficulties": "canon",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "soul",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"gf",
+		"dad",
+		"bf"
+	],
+	"songs": [
+		[
+			"Overwritten",
+			"Azzy-chara",
+			[
+				225,
+				34,
+				35
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "",
+	"hiddenUntilUnlocked": false
+}

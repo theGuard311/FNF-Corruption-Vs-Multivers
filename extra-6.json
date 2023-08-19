@@ -1,0 +1,41 @@
+{
+	"storyName": "one left",
+	"difficulties": "evil",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "chara",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"gf",
+		"dad",
+		"bf"
+	],
+	"songs": [
+		[
+			"double-eraser",
+			"chara-azzy",
+			[
+				142,
+				196,
+				106
+			]
+		],
+		[
+			"double-kill",
+			"chara-azzy",
+			[
+				142,
+				196,
+				106
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "",
+	"hiddenUntilUnlocked": false
+}

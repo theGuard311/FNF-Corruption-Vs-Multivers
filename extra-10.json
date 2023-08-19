@@ -1,0 +1,32 @@
+{
+	"storyName": "one left",
+	"difficulties": "canon",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "chara",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"gf",
+		"dad",
+		"bf"
+	],
+	"songs": [
+		[
+			"fatality",
+			"hate",
+			[
+				146,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "",
+	"hiddenUntilUnlocked": false
+}
