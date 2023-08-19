@@ -1,0 +1,41 @@
+{
+	"storyName": "one left",
+	"difficulties": "canon",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "the-end",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"gf",
+		"dad",
+		"bf"
+	],
+	"songs": [
+		[
+			"familiar-finale",
+			"c-azzy",
+			[
+				40,
+				40,
+				40
+			]
+		],
+		[
+			"soliloquy",
+			"Azzy",
+			[
+				160,
+				93,
+				99
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "one-left",
+	"hiddenUntilUnlocked": false
+}

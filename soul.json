@@ -1,0 +1,50 @@
+{
+	"storyName": "Es tiempo de cambiar las cosas",
+	"difficulties": "canon",
+	"hideFreeplay": false,
+	"weekBackground": "soul",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"tears-of-hate",
+			"soul-azzy",
+			[
+				38,
+				10,
+				10
+			]
+		],
+		[
+			"neuroses",
+			"soul-azzy",
+			[
+				38,
+				10,
+				10
+			]
+		],
+		[
+			"discharge",
+			"soul-azzy",
+			[
+				38,
+				10,
+				10
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "fnf-corruption"
+}
