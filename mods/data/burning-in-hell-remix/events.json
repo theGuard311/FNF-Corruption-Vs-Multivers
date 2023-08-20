@@ -1,0 +1,266 @@
+{
+	"song": {
+		"events": [
+			[
+				33882.3529411765,
+				[
+					[
+						"Flash Camera",
+						"2",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"sans-4"
+					],
+					[
+						"Change Character",
+						"bf",
+						"p-frisk-happy"
+					]
+				]
+			],
+			[
+				56470.5882352941,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sans-3"
+					],
+					[
+						"Flash Camera",
+						"2",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"p-frisk"
+					]
+				]
+			],
+			[
+				124235.294117647,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sans-2"
+					]
+				]
+			],
+			[
+				135529.411764706,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sans-4"
+					],
+					[
+						"Black Flash Camera",
+						"2",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"p-frisk-sad"
+					]
+				]
+			],
+			[
+				146823.529411764,
+				[
+					[
+						"Black Flash Camera",
+						"2",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"o-corrupted-sans"
+					]
+				]
+			],
+			[
+				170735.294117647,
+				[
+					[
+						"Image Flash",
+						"black",
+						"15"
+					],
+					[
+						"Change Character",
+						"bf",
+						"nogf"
+					]
+				]
+			],
+			[
+				171088.235294117,
+				[
+					[
+						"Play Sound",
+						"run-away",
+						""
+					]
+				]
+			],
+			[
+				172411.764705882,
+				[
+					[
+						"lyrics",
+						"* f",
+						"FFFF00,40"
+					]
+				]
+			],
+			[
+				172588.235294117,
+				[
+					[
+						"lyrics",
+						"* fr",
+						"FFFF00,40"
+					]
+				]
+			],
+			[
+				172764.705882353,
+				[
+					[
+						"lyrics",
+						"* fri",
+						"FFFF00,40"
+					]
+				]
+			],
+			[
+				172941.176470588,
+				[
+					[
+						"lyrics",
+						"* fris",
+						"FFFF00,40"
+					]
+				]
+			],
+			[
+				173117.647058823,
+				[
+					[
+						"lyrics",
+						"* frisk",
+						"FFFF00,40"
+					]
+				]
+			],
+			[
+				173294.117647059,
+				[
+					[
+						"lyrics",
+						"* frisk h",
+						"FFFF00,40"
+					]
+				]
+			],
+			[
+				173470.588235294,
+				[
+					[
+						"lyrics",
+						"* frisk ha",
+						"FFFF00,40"
+					]
+				]
+			],
+			[
+				173647.058823529,
+				[
+					[
+						"lyrics",
+						"* frisk has",
+						"FFFF00,40"
+					]
+				]
+			],
+			[
+				173823.529411764,
+				[
+					[
+						"lyrics",
+						"* frisk has e",
+						"FFFF00,40"
+					]
+				]
+			],
+			[
+				174000,
+				[
+					[
+						"lyrics",
+						"* frisk has es",
+						"FFFF00,40"
+					]
+				]
+			],
+			[
+				174176.470588235,
+				[
+					[
+						"lyrics",
+						"* frisk has esc",
+						"FFFF00,40"
+					]
+				]
+			],
+			[
+				174352.94117647,
+				[
+					[
+						"lyrics",
+						"* frisk has esca",
+						"FFFF00,40"
+					]
+				]
+			],
+			[
+				174529.411764706,
+				[
+					[
+						"lyrics",
+						"* frisk has escap",
+						"FFFF00,40"
+					]
+				]
+			],
+			[
+				174705.882352941,
+				[
+					[
+						"lyrics",
+						"* frisk has escape",
+						"FFFF00,40"
+					]
+				]
+			],
+			[
+				174882.352941176,
+				[
+					[
+						"lyrics",
+						"* frisk has escaped",
+						"FFFF00,40"
+					]
+				]
+			]
+		]
+	}
+}

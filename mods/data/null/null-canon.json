@@ -1,0 +1,18 @@
+{
+	"song": {
+		"player1": "nogf",
+		"sectionLengths": [],
+		"events": [],
+		"gfVersion": "nogf",
+		"notes": [],
+		"player2": "nogf",
+		"player3": null,
+		"song": "null",
+		"stage": "no-stage",
+		"validScore": true,
+		"sections": 0,
+		"needsVoices": false,
+		"bpm": 200,
+		"speed": 2
+	}
+}

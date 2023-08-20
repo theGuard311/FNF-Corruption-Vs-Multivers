@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "sans: frisk corre salvate yo me encargare de lost.",
+			"boxState": "normal",
+			"sound": "sans",
+			"speed": 0.05,
+			"portrait": "no"
+		},
+		{
+			"expression": "talk",
+			"text": "frisk: no te dejare aqui.",
+			"boxState": "normal",
+			"sound": "frisk",
+			"speed": 0.05,
+			"portrait": "no"
+		},
+		{
+			"expression": "enserio",
+			"text": "lost: . . .",
+			"boxState": "normal",
+			"sound": "asriel-adult",
+			"speed": 0.05,
+			"portrait": "Lost"
+		},
+		{
+			"expression": "enojado",
+			"text": "lost: yo no caere tan facil sans...",
+			"boxState": "normal",
+			"sound": "asriel-adult",
+			"speed": 0.05,
+			"portrait": "Lost"
+		}
+	]
+}
