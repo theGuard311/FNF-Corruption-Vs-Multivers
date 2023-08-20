@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Corrupted-Asrel.png"><SubTexture name="C-Asrel-Idle0000" x="0" y="0" width="120" height="138" frameX="0" frameY="0" frameWidth="120" frameHeight="138" />
+<SubTexture name="C-Asrel-Idle0001" x="240" y="0" width="120" height="138" frameX="0" frameY="0" frameWidth="120" frameHeight="138" />
+<SubTexture name="C-Asrel-Idle0002" x="240" y="0" width="120" height="138" frameX="0" frameY="0" frameWidth="120" frameHeight="138" />
+<SubTexture name="C-Asrel-Idle0003" x="0" y="138" width="120" height="138" frameX="0" frameY="0" frameWidth="120" frameHeight="138" />
+<SubTexture name="C-Asrel-Idle0004" x="0" y="138" width="120" height="138" frameX="0" frameY="0" frameWidth="120" frameHeight="138" />
+<SubTexture name="C-Asrel-Idle0005" x="120" y="138" width="120" height="138" frameX="0" frameY="0" frameWidth="120" frameHeight="138" />
+<SubTexture name="C-Asrel-Idle0006" x="120" y="138" width="120" height="138" frameX="0" frameY="0" frameWidth="120" frameHeight="138" />
+<SubTexture name="C-Asrel-Idle0007" x="240" y="138" width="120" height="138" frameX="0" frameY="0" frameWidth="120" frameHeight="138" />
+<SubTexture name="C-Asrel-Idle0008" x="240" y="138" width="120" height="138" frameX="0" frameY="0" frameWidth="120" frameHeight="138" />
+<SubTexture name="C-Asrel-Idle0009" x="0" y="0" width="120" height="138" frameX="0" frameY="0" frameWidth="120" frameHeight="138" />
+<SubTexture name="C-Asrel-Idle0010" x="0" y="0" width="120" height="138" frameX="0" frameY="0" frameWidth="120" frameHeight="138" />
+<SubTexture name="C-Asrel-Down0000" x="120" y="0" width="120" height="138" frameX="0" frameY="0" frameWidth="120" frameHeight="138" />
+<SubTexture name="C-Asrel-Down0001" x="360" y="0" width="120" height="138" frameX="0" frameY="0" frameWidth="120" frameHeight="138" />
+<SubTexture name="C-Asrel-Down0002" x="360" y="138" width="120" height="138" frameX="0" frameY="0" frameWidth="120" frameHeight="138" />
+<SubTexture name="C-Asrel-Down0003" x="360" y="0" width="120" height="138" frameX="0" frameY="0" frameWidth="120" frameHeight="138" />
+<SubTexture name="C-Asrel-Down0004" x="120" y="0" width="120" height="138" frameX="0" frameY="0" frameWidth="120" frameHeight="138" />
+<SubTexture name="C-Asrel-Up0000" x="0" y="276" width="120" height="138" frameX="0" frameY="0" frameWidth="120" frameHeight="138" />
+<SubTexture name="C-Asrel-Up0001" x="120" y="276" width="120" height="138" frameX="0" frameY="0" frameWidth="120" frameHeight="138" />
+<SubTexture name="C-Asrel-Up0002" x="240" y="276" width="120" height="138" frameX="0" frameY="0" frameWidth="120" frameHeight="138" />
+<SubTexture name="C-Asrel-Up0003" x="120" y="276" width="120" height="138" frameX="0" frameY="0" frameWidth="120" frameHeight="138" />
+<SubTexture name="C-Asrel-Up0004" x="0" y="276" width="120" height="138" frameX="0" frameY="0" frameWidth="120" frameHeight="138" />
+<SubTexture name="C-Asrel-left0000" x="360" y="276" width="120" height="138" frameX="0" frameY="0" frameWidth="120" frameHeight="138" />
+<SubTexture name="C-Asrel-left0001" x="480" y="0" width="120" height="138" frameX="0" frameY="0" frameWidth="120" frameHeight="138" />
+<SubTexture name="C-Asrel-left0002" x="480" y="138" width="120" height="138" frameX="0" frameY="0" frameWidth="120" frameHeight="138" />
+<SubTexture name="C-Asrel-left0003" x="480" y="0" width="120" height="138" frameX="0" frameY="0" frameWidth="120" frameHeight="138" />
+<SubTexture name="C-Asrel-left0004" x="360" y="276" width="120" height="138" frameX="0" frameY="0" frameWidth="120" frameHeight="138" />
+<SubTexture name="C-Asrel-Right0000" x="480" y="276" width="120" height="138" frameX="0" frameY="0" frameWidth="120" frameHeight="138" />
+<SubTexture name="C-Asrel-Right0001" x="0" y="414" width="120" height="138" frameX="0" frameY="0" frameWidth="120" frameHeight="138" />
+<SubTexture name="C-Asrel-Right0002" x="120" y="414" width="120" height="138" frameX="0" frameY="0" frameWidth="120" frameHeight="138" />
+<SubTexture name="C-Asrel-Right0003" x="0" y="414" width="120" height="138" frameX="0" frameY="0" frameWidth="120" frameHeight="138" />
+<SubTexture name="C-Asrel-Right0004" x="480" y="276" width="120" height="138" frameX="0" frameY="0" frameWidth="120" frameHeight="138" />
+</TextureAtlas>
