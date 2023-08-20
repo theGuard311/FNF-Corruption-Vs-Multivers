@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "CHARACTER Dies"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "CHARACTER Dead loop"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "CHARACTER Dead confirm"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Dead",
+	"position": [
+		150,
+		310
+	],
+	"healthicon": "Azzy",
+	"flip_x": true,
+	"healthbar_colors": [
+		160,
+		93,
+		99
+	],
+	"camera_position": [
+		210,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 4.00000000000001
+}

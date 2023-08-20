@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				13,
+				38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Asriel UP NOTE"
+		},
+		{
+			"offsets": [
+				19,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Asriel LEFT NOTE"
+		},
+		{
+			"offsets": [
+				13,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Asriel RIGHT NOTE"
+		},
+		{
+			"offsets": [
+				7,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Asriel DOWN NOTE"
+		},
+		{
+			"offsets": [
+				1,
+				1
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "Asriel Idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/betty",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "betty",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		123
+	],
+	"camera_position": [
+		-360,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 6.2
+}

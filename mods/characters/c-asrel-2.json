@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				112,
+				-223
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Angry-asrel-left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				91,
+				-99
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Angry-asrel-up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				-223
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Angry-asrel-right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-74,
+				-223
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Angry-asrel-down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-74,
+				-223
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "Angry-asrel-idle"
+		},
+		{
+			"offsets": [
+				-74,
+				-223
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "attack",
+			"indices": [],
+			"name": "Angry-asrel-attack"
+		},
+		{
+			"offsets": [
+				-74,
+				-223
+			],
+			"loop": true,
+			"fps": 30,
+			"anim": "pre-attack",
+			"indices": [],
+			"name": "Angry-asrel-pre-attack"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Corrupted-Asrel-Angry",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "c-1",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-360,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 6.2
+}

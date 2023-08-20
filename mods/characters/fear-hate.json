@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				14,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Asriel UP NOTE"
+		},
+		{
+			"offsets": [
+				21,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Asriel LEFT NOTE"
+		},
+		{
+			"offsets": [
+				14,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Asriel RIGHT NOTE"
+		},
+		{
+			"offsets": [
+				8,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Asriel DOWN NOTE"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "Asriel Idle"
+		},
+		{
+			"offsets": [
+				7,
+				6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "broken-1",
+			"loop": true,
+			"name": "Chara broken 1"
+		},
+		{
+			"offsets": [
+				7,
+				7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "broken-2",
+			"loop": true,
+			"name": "Chara broken 2"
+		},
+		{
+			"offsets": [
+				19,
+				6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "broken-3",
+			"loop": true,
+			"name": "Chara broken 3"
+		},
+		{
+			"offsets": [
+				20,
+				6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "broken-4",
+			"loop": true,
+			"name": "Chara broken 4"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/fear-hate",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "fear-hate",
+	"flip_x": false,
+	"healthbar_colors": [
+		12,
+		0,
+		5
+	],
+	"camera_position": [
+		-360,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 6.2
+}

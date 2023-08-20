@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				14,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Asriel UP NOTE"
+		},
+		{
+			"offsets": [
+				21,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Asriel LEFT NOTE"
+		},
+		{
+			"offsets": [
+				14,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Asriel RIGHT NOTE"
+		},
+		{
+			"offsets": [
+				8,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Asriel DOWN NOTE"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "Asriel Idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Corrupted-3",
+	"position": [
+		-220,
+		70
+	],
+	"healthicon": "c-3",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-360,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 6.2
+}

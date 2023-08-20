@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				193,
+				-217
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "C-Asrel-left"
+		},
+		{
+			"offsets": [
+				66,
+				-130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "C-Asrel-Up"
+		},
+		{
+			"offsets": [
+				7,
+				-217
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "C-Asrel-Idle"
+		},
+		{
+			"offsets": [
+				-73,
+				-217
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "C-Asrel-Right"
+		},
+		{
+			"offsets": [
+				7,
+				-217
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "C-Asrel-Down"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Corrupted-Asrel",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "c-0",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-360,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 6.2
+}

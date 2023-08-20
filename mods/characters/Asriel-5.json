@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				6
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Asriel DOWN NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				37
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Asriel UP NOTE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-21,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Asriel LEFT NOTE"
+		},
+		{
+			"offsets": [
+				-15,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Asriel RIGHT NOTE"
+		},
+		{
+			"offsets": [
+				-3,
+				-1
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "Asriel Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				5
+			],
+			"anim": "change",
+			"fps": 24,
+			"name": "Chara change",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Asriel-4",
+	"position": [
+		150,
+		150
+	],
+	"healthicon": "Azzy",
+	"flip_x": false,
+	"healthbar_colors": [
+		160,
+		93,
+		99
+	],
+	"camera_position": [
+		570,
+		-520
+	],
+	"sing_duration": 4,
+	"scale": 6.2
+}

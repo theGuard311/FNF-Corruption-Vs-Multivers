@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "pepe"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "fepe",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "pre-attack",
+			"fps": 35,
+			"name": "fefe",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Gaster_blasterss",
+	"position": [
+		-5560,
+		40
+	],
+	"healthicon": "Azzy",
+	"flip_x": true,
+	"healthbar_colors": [
+		160,
+		73,
+		99
+	],
+	"camera_position": [
+		1520,
+		130
+	],
+	"sing_duration": 4,
+	"scale": 0.800000000000005
+}

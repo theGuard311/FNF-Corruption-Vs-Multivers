@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				36
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Asriel UP NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Asriel LEFT NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Asriel RIGHT NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				6
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Asriel DOWN NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "Asriel Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/dreemurr-2",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "c-azzy",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		40,
+		40
+	],
+	"camera_position": [
+		-360,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 6.2
+}

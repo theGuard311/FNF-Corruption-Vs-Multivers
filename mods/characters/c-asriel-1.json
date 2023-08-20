@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-9,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Asriel DOWN NOTE"
+		},
+		{
+			"offsets": [
+				-15,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Asriel UP NOTE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Asriel LEFT NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Asriel RIGHT NOTE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-3,
+				-1
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "cape",
+			"indices": [],
+			"name": "Asriel cape"
+		},
+		{
+			"offsets": [
+				-3,
+				-1
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "Asriel Idle"
+		},
+		{
+			"offsets": [
+				-3,
+				-1
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "idle",
+			"loop": false,
+			"name": "Asriel 2 cape"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/c-asriel-1",
+	"position": [
+		150,
+		150
+	],
+	"healthicon": "Azzy-3",
+	"flip_x": false,
+	"healthbar_colors": [
+		160,
+		93,
+		99
+	],
+	"camera_position": [
+		350,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 6.2
+}

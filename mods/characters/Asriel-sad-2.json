@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-9,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Asriel DOWN NOTE"
+		},
+		{
+			"offsets": [
+				-15,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Asriel UP NOTE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Asriel LEFT NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Asriel RIGHT NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-1
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "Asriel Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Asriel-sad",
+	"position": [
+		150,
+		150
+	],
+	"healthicon": "Azzy",
+	"flip_x": false,
+	"healthbar_colors": [
+		141,
+		193,
+		67
+	],
+	"camera_position": [
+		200,
+		-430
+	],
+	"sing_duration": 4,
+	"scale": 6.2
+}

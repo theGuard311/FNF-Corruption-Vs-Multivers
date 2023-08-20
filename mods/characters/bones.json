@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Dodge instance"
+		},
+		{
+			"offsets": [
+				294,
+				267
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "pre-attack",
+			"loop": true,
+			"name": "Alarm instance"
+		},
+		{
+			"offsets": [
+				294,
+				267
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "attack",
+			"loop": false,
+			"name": "Bones boi instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "attacks/Bones",
+	"position": [
+		100,
+		430
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		80,
+		-240
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

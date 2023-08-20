@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Chara DOWN NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				55
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Chara UP NOTE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				12,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Chara LEFT NOTE"
+		},
+		{
+			"offsets": [
+				-34,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Chara RIGHT NOTE"
+		},
+		{
+			"offsets": [
+				-32,
+				0
+			],
+			"loop": true,
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "Chara Idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/creepy-asriel-2",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "no",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-535,
+		-510
+	],
+	"sing_duration": 4,
+	"scale": 7
+}

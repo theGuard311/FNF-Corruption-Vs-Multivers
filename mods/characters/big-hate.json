@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				-101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Big-Hate Down"
+		},
+		{
+			"offsets": [
+				-10,
+				-101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Big-Hate Up"
+		},
+		{
+			"offsets": [
+				-10,
+				-101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Big-Hate Right"
+		},
+		{
+			"offsets": [
+				-10,
+				-101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Big-Hate Left"
+		},
+		{
+			"offsets": [
+				-10,
+				-101
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "Big-Hate Idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Big-Hate",
+	"position": [
+		530,
+		-123
+	],
+	"healthicon": "hate",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		0,
+		0
+	],
+	"camera_position": [
+		-570,
+		-270
+	],
+	"sing_duration": 4,
+	"scale": 7.5
+}

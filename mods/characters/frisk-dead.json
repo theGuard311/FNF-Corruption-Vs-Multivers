@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "FRISK Dies"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "FRISK Dead loop"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "FRISK Dead confirm"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/frisk-dead",
+	"position": [
+		150,
+		150
+	],
+	"healthicon": "Azzy",
+	"flip_x": true,
+	"healthbar_colors": [
+		160,
+		93,
+		99
+	],
+	"camera_position": [
+		-100,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 6.2
+}

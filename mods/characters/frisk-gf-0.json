@@ -1,0 +1,86 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"fps": 10,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "GF IDLE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"fps": 10,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "GF IDLE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "singUP",
+			"loop": false,
+			"name": "GF IDLE"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/frisk-gf",
+	"position": [
+		-220,
+		170
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-450,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 5.99999999999999
+}

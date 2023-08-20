@@ -1,0 +1,90 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-9,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Asriel DOWN NOTE"
+		},
+		{
+			"offsets": [
+				-15,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Asriel UP NOTE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Asriel LEFT NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Asriel RIGHT NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-1
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "Asriel Idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				-1
+			],
+			"anim": "idle-alt",
+			"fps": 30,
+			"name": "Chara DOWN NOTE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/c-asriel-4",
+	"position": [
+		160,
+		93,
+		99
+	],
+	"healthicon": "Azzy-6",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		350,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 6.2
+}

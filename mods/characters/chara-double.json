@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				28
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Angry chara Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				70
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Angry chara UP NOTE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				28
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Angry chara DOWN NOTE"
+		},
+		{
+			"offsets": [
+				47,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Angry chara RIGHT NOTE"
+		},
+		{
+			"offsets": [
+				29,
+				34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Angry chara LEFT NOTE"
+		},
+		{
+			"offsets": [
+				-19,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "Angry chara Dodge"
+		},
+		{
+			"offsets": [
+				-19,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Angry chara Khinfe"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/chara",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "chara",
+	"flip_x": false,
+	"healthbar_colors": [
+		230,
+		36,
+		36
+	],
+	"camera_position": [
+		-360,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 6.4
+}
