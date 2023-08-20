@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "GF IDLE"
+		},
+		{
+			"offsets": [
+				15,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GF LEFT NOTE"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GF RIGHT NOTE"
+		},
+		{
+			"offsets": [
+				21,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GF UP NOTE"
+		},
+		{
+			"offsets": [
+				8,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GF DOWN NOTE"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/frisk-playable",
+	"position": [
+		190,
+		360
+	],
+	"healthicon": "chara",
+	"flip_x": true,
+	"healthbar_colors": [
+		230,
+		36,
+		36
+	],
+	"camera_position": [
+		240,
+		-240
+	],
+	"sing_duration": 4,
+	"scale": 6.5
+}

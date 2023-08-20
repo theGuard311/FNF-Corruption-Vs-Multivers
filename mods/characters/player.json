@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-9,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Asriel DOWN NOTE"
+		},
+		{
+			"offsets": [
+				-15,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Asriel UP NOTE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Asriel LEFT NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Asriel RIGHT NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-1
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "Asriel Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				0
+			],
+			"anim": "talk4",
+			"fps": 24,
+			"name": "Chara DOWN NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				31
+			],
+			"anim": "talk3",
+			"fps": 24,
+			"name": "Chara UP NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-8
+			],
+			"anim": "talk2",
+			"fps": 24,
+			"name": "Chara RIGHT NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				5
+			],
+			"anim": "talk1",
+			"fps": 24,
+			"name": "Chara LEFT NOTE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-3,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "talk5",
+			"loop": false,
+			"name": "Chara Talk"
+		},
+		{
+			"offsets": [
+				-22,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "talk-1",
+			"loop": true,
+			"name": "Chara LEFT2 NOTE"
+		},
+		{
+			"offsets": [
+				-16,
+				-8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "talk-2",
+			"loop": true,
+			"name": "Chara RIGHT2 NOTE"
+		},
+		{
+			"offsets": [
+				-16,
+				31
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "talk-3",
+			"loop": true,
+			"name": "Chara UP2 NOTE"
+		},
+		{
+			"offsets": [
+				-9,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "talk-4",
+			"loop": true,
+			"name": "Chara DOWN2 NOTE"
+		},
+		{
+			"offsets": [
+				-3,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "talk-5",
+			"loop": true,
+			"name": "Chara Talk2"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/player",
+	"position": [
+		150,
+		150
+	],
+	"healthicon": "no",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-450,
+		-370
+	],
+	"sing_duration": 4,
+	"scale": 6.4
+}

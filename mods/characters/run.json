@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				7,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": true,
+			"name": "Asriel Idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/run",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "no",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-130,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 6.2
+}

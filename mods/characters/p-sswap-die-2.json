@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-274,
+				-327
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "shift Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/shift-die-2",
+	"position": [
+		-30,
+		140
+	],
+	"healthicon": "n-shift",
+	"flip_x": true,
+	"healthbar_colors": [
+		103,
+		134,
+		178
+	],
+	"camera_position": [
+		350,
+		-270
+	],
+	"sing_duration": 4,
+	"scale": 6.2
+}

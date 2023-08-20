@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "Asriel Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/dreemurr-im",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "c-azzy",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		40,
+		40
+	],
+	"camera_position": [
+		-360,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 6.2
+}

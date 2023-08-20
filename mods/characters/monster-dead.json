@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "LOST Dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "LOST Dead loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "LOST Dead confirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/monster-dead",
+	"position": [
+		150,
+		150
+	],
+	"healthicon": "Azzy",
+	"flip_x": true,
+	"healthbar_colors": [
+		160,
+		93,
+		99
+	],
+	"camera_position": [
+		-100,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 6.2
+}

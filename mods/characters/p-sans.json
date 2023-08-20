@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-9,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sans DOWN NOTE"
+		},
+		{
+			"offsets": [
+				-3,
+				-1
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sans Idle"
+		},
+		{
+			"offsets": [
+				-15,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sans UP NOTE"
+		},
+		{
+			"offsets": [
+				-22,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sans LEFT NOTE"
+		},
+		{
+			"offsets": [
+				-16,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sans RIGHT NOTE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-3
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Sans Dance RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-3
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Sans Dance LEFT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/sans-good",
+	"position": [
+		40,
+		-20
+	],
+	"healthicon": "sans-2",
+	"flip_x": true,
+	"healthbar_colors": [
+		53,
+		105,
+		196
+	],
+	"camera_position": [
+		-500,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 5.7
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				31
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Hate UP NOTE instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Hate LEFT NOTE instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Hate RIGHT NOTE instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Hate DOWN NOTE instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "Hate Idle instance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 30,
+			"name": "Hate Idle-Loop instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/hate",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "hate",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		0,
+		0
+	],
+	"camera_position": [
+		-480,
+		-450
+	],
+	"sing_duration": 4,
+	"scale": 6.2
+}

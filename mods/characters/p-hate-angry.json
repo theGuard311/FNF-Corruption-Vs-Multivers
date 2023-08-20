@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-9,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Chara DOWN NOTE"
+		},
+		{
+			"offsets": [
+				-15,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Chara UP NOTE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Chara LEFT NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Chara RIGHT NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				6
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "Chara Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/P-fear-hate",
+	"position": [
+		150,
+		150
+	],
+	"healthicon": "fear-hate",
+	"flip_x": false,
+	"healthbar_colors": [
+		12,
+		0,
+		5
+	],
+	"camera_position": [
+		350,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 6.2
+}

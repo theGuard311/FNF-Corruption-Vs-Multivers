@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "BG girls group",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bgFreaks",
+	"position": [
+		240,
+		200
+	],
+	"healthicon": "no",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		350,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 6
+}
