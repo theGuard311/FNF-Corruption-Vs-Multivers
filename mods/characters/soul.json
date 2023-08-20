@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF IDLE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				49
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF UP NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-40
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF DOWN NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF RIGHT NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				28
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF LEFT NOTE"
+		},
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"loop": false,
+			"anim": "hey",
+			"fps": 22,
+			"name": "BF HEY",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-40,
+				28
+			],
+			"loop": false,
+			"fps": 23,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "BF ALT LEFT NOTE"
+		},
+		{
+			"offsets": [
+				2,
+				56
+			],
+			"loop": false,
+			"fps": 23,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "BF ALT UP NOTE"
+		},
+		{
+			"offsets": [
+				41,
+				14
+			],
+			"loop": false,
+			"fps": 23,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "BF ALT RIGHT NOTE"
+		},
+		{
+			"offsets": [
+				2,
+				-40
+			],
+			"loop": false,
+			"fps": 23,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "BF ALT DOWN NOTE"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/BfPixel-Soul",
+	"position": [
+		160,
+		370
+	],
+	"healthicon": "soul-bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-290,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 7
+}
