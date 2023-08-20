@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Asriel.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Asriel DOWN NOTE instance 10000" x="0" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel DOWN NOTE instance 10001" x="0" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel DOWN NOTE instance 10002" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel DOWN NOTE instance 10003" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel DOWN NOTE instance 10004" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel DOWN NOTE instance 10005" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel DOWN NOTE instance 10006" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel DOWN NOTE instance 10007" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel DOWN NOTE instance 10008" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel DOWN NOTE instance 10009" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel DOWN NOTE instance 10010" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel DOWN NOTE instance 10011" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel DOWN NOTE instance 10012" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel DOWN NOTE instance 10013" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel Idle instance 10000" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel Idle instance 10001" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel Idle instance 10002" x="405" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel Idle instance 10003" x="405" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel Idle instance 10004" x="540" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel Idle instance 10005" x="540" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel Idle instance 10006" x="675" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel Idle instance 10007" x="675" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel Idle instance 10008" x="810" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel Idle instance 10009" x="810" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel Idle instance 10010" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel Idle instance 10011" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel Idle instance 10012" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel Idle instance 10013" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel LEFT NOTE instance 10000" x="945" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel LEFT NOTE instance 10001" x="945" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel LEFT NOTE instance 10002" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel LEFT NOTE instance 10003" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel LEFT NOTE instance 10004" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel LEFT NOTE instance 10005" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel LEFT NOTE instance 10006" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel LEFT NOTE instance 10007" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel LEFT NOTE instance 10008" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel LEFT NOTE instance 10009" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel LEFT NOTE instance 10010" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel LEFT NOTE instance 10011" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel LEFT NOTE instance 10012" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel LEFT NOTE instance 10013" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel RIGHT NOTE instance 10000" x="1215" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel RIGHT NOTE instance 10001" x="1215" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel RIGHT NOTE instance 10002" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel RIGHT NOTE instance 10003" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel RIGHT NOTE instance 10004" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel RIGHT NOTE instance 10005" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel RIGHT NOTE instance 10006" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel RIGHT NOTE instance 10007" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel RIGHT NOTE instance 10008" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel RIGHT NOTE instance 10009" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel RIGHT NOTE instance 10010" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel RIGHT NOTE instance 10011" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel RIGHT NOTE instance 10012" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel RIGHT NOTE instance 10013" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel UP NOTE instance 10000" x="1485" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel UP NOTE instance 10001" x="1485" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel UP NOTE instance 10002" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel UP NOTE instance 10003" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel UP NOTE instance 10004" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel UP NOTE instance 10005" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel UP NOTE instance 10006" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel UP NOTE instance 10007" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel UP NOTE instance 10008" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel UP NOTE instance 10009" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel UP NOTE instance 10010" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel UP NOTE instance 10011" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel UP NOTE instance 10012" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel UP NOTE instance 10013" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="Hate DOWN NOTE instance 10000" x="1755" y="0" width="125" height="163"/>
+	<SubTexture name="Hate DOWN NOTE instance 10001" x="1755" y="0" width="125" height="163"/>
+	<SubTexture name="Hate DOWN NOTE instance 10002" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="Hate DOWN NOTE instance 10003" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="Hate DOWN NOTE instance 10004" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="Hate DOWN NOTE instance 10005" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="Hate DOWN NOTE instance 10006" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="Hate DOWN NOTE instance 10007" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="Hate DOWN NOTE instance 10008" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="Hate DOWN NOTE instance 10009" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="Hate DOWN NOTE instance 10010" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="Hate DOWN NOTE instance 10011" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="Hate DOWN NOTE instance 10012" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="Hate DOWN NOTE instance 10013" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="Hate LEFT NOTE instance 10000" x="0" y="174" width="125" height="163"/>
+	<SubTexture name="Hate LEFT NOTE instance 10001" x="0" y="174" width="125" height="163"/>
+	<SubTexture name="Hate LEFT NOTE instance 10002" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="Hate LEFT NOTE instance 10003" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="Hate LEFT NOTE instance 10004" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="Hate LEFT NOTE instance 10005" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="Hate LEFT NOTE instance 10006" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="Hate LEFT NOTE instance 10007" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="Hate LEFT NOTE instance 10008" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="Hate LEFT NOTE instance 10009" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="Hate LEFT NOTE instance 10010" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="Hate LEFT NOTE instance 10011" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="Hate LEFT NOTE instance 10012" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="Hate LEFT NOTE instance 10013" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="Hate RIGHT NOTE instance 10000" x="270" y="174" width="125" height="163"/>
+	<SubTexture name="Hate RIGHT NOTE instance 10001" x="270" y="174" width="125" height="163"/>
+	<SubTexture name="Hate RIGHT NOTE instance 10002" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="Hate RIGHT NOTE instance 10003" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="Hate RIGHT NOTE instance 10004" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="Hate RIGHT NOTE instance 10005" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="Hate RIGHT NOTE instance 10006" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="Hate RIGHT NOTE instance 10007" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="Hate RIGHT NOTE instance 10008" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="Hate RIGHT NOTE instance 10009" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="Hate RIGHT NOTE instance 10010" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="Hate RIGHT NOTE instance 10011" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="Hate RIGHT NOTE instance 10012" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="Hate RIGHT NOTE instance 10013" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="Hate UP NOTE instance 10000" x="540" y="174" width="125" height="163"/>
+	<SubTexture name="Hate UP NOTE instance 10001" x="540" y="174" width="125" height="163"/>
+	<SubTexture name="Hate UP NOTE instance 10002" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="Hate UP NOTE instance 10003" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="Hate UP NOTE instance 10004" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="Hate UP NOTE instance 10005" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="Hate UP NOTE instance 10006" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="Hate UP NOTE instance 10007" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="Hate UP NOTE instance 10008" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="Hate UP NOTE instance 10009" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="Hate UP NOTE instance 10010" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="Hate UP NOTE instance 10011" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="Hate UP NOTE instance 10012" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="Hate UP NOTE instance 10013" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="Hate Idle instance 10000" x="1480" y="174" width="124" height="163"/>
+	<SubTexture name="Hate Idle instance 10001" x="1480" y="174" width="124" height="163"/>
+	<SubTexture name="Hate Idle instance 10003" x="1614" y="174" width="124" height="163"/>
+	<SubTexture name="Hate Idle instance 10004" x="1614" y="174" width="124" height="163"/>
+	<SubTexture name="Hate Idle instance 10005" x="1748" y="174" width="124" height="163"/>
+	<SubTexture name="Hate Idle instance 10006" x="1748" y="174" width="124" height="163"/>
+	<SubTexture name="Hate Idle instance 10007" x="1882" y="174" width="124" height="163"/>
+	<SubTexture name="Hate Idle instance 10008" x="1882" y="174" width="124" height="163"/>
+	<SubTexture name="Hate Idle instance 10009" x="0" y="347" width="124" height="163"/>
+	<SubTexture name="Hate Idle instance 10010" x="0" y="347" width="124" height="163"/>
+	<SubTexture name="Hate Idle instance 10011" x="1212" y="174" width="124" height="163"/>
+	<SubTexture name="Hate Idle instance 10012" x="1212" y="174" width="124" height="163"/>
+	<SubTexture name="Hate Idle instance 10013" x="1346" y="174" width="124" height="163"/>
+	<SubTexture name="Hate Idle instance 10014" x="1346" y="174" width="124" height="163"/>
+	<SubTexture name="Hate Idle instance 10015" x="1212" y="174" width="124" height="163"/>
+	<SubTexture name="Hate Idle instance 10016" x="1212" y="174" width="124" height="163"/>
+	<SubTexture name="Hate Idle-Loop instance 10017" x="810" y="174" width="124" height="163"/>
+	<SubTexture name="Hate Idle-Loop instance 10018" x="810" y="174" width="124" height="163"/>
+	<SubTexture name="Hate Idle-Loop instance 10019" x="944" y="174" width="124" height="163"/>
+	<SubTexture name="Hate Idle-Loop instance 10020" x="944" y="174" width="124" height="163"/>
+	<SubTexture name="Hate Idle-Loop instance 10021" x="1078" y="174" width="124" height="163"/>
+	<SubTexture name="Hate Idle-Loop instance 10022" x="1078" y="174" width="124" height="163"/>
+	<SubTexture name="Hate Idle-Loop instance 10023" x="944" y="174" width="124" height="163"/>
+	<SubTexture name="Hate Idle-Loop instance 10024" x="944" y="174" width="124" height="163"/>
+	<SubTexture name="Hate Idle-Loop instance 10025" x="810" y="174" width="124" height="163"/>
+	<SubTexture name="Hate Idle-Loop instance 10026" x="810" y="174" width="124" height="163"/>
+	<SubTexture name="Hate Idle-Loop instance 10027" x="1212" y="174" width="124" height="163"/>
+	<SubTexture name="Hate Idle-Loop instance 10028" x="1212" y="174" width="124" height="163"/>
+	<SubTexture name="Hate Idle-Loop instance 10029" x="1346" y="174" width="124" height="163"/>
+	<SubTexture name="Hate Idle-Loop instance 10030" x="1346" y="174" width="124" height="163"/>
+	<SubTexture name="Hate Idle-Loop instance 10031" x="1212" y="174" width="124" height="163"/>
+	<SubTexture name="Hate Idle-Loop instance 10032" x="1212" y="174" width="124" height="163"/>
+</TextureAtlas>

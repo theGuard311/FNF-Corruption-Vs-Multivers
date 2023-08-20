@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="frisk-dead.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FRISK Dies 10000" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10001" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10002" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10003" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10004" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10005" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10006" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10007" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10008" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10009" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10010" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10011" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10012" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10013" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10014" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10015" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10016" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10017" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10018" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10019" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10020" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10021" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10022" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10023" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10024" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10025" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10026" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10027" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10028" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10029" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10030" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10031" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10032" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10033" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10034" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10035" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10036" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10037" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10038" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dies 10039" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dead loop 10000" x="405" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dead loop 10001" x="405" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dead loop 10002" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dead loop 10004" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dead loop 10005" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dead loop 10006" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dead loop 10007" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dead loop 10008" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dead loop 10009" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dead loop 10010" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dead loop 10011" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dead loop 10012" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dead confirm 10000" x="540" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dead confirm 10001" x="540" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dead confirm 10002" x="540" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dead confirm 10003" x="540" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dead confirm 10004" x="675" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dead confirm 10005" x="675" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dead confirm 10006" x="810" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dead confirm 10007" x="810" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dead confirm 10008" x="810" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dead confirm 10009" x="810" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dead confirm 10010" x="810" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dead confirm 10011" x="810" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dead confirm 10012" x="810" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dead confirm 10013" x="810" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dead confirm 10014" x="810" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dead confirm 10015" x="810" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dead confirm 10016" x="810" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dead confirm 10017" x="810" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dead confirm 10018" x="810" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dead confirm 10019" x="810" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dead confirm 10020" x="810" y="0" width="125" height="164"/>
+	<SubTexture name="FRISK Dead confirm 10021" x="810" y="0" width="125" height="164"/>
+</TextureAtlas>
