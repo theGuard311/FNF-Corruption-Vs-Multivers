@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="shift.png">
+<SubTexture name="shift Idle0000" x="0" y="0" width="126" height="51" frameX="-12" frameY="-14" frameWidth="142" frameHeight="71" />
+</TextureAtlas>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Asriel.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Asriel Idle instance 10000" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel Idle instance 10001" x="405" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel Idle instance 10002" x="540" y="0" width="125" height="164"/>
+	<SubTexture name="Asriel Idle instance 10003" x="675" y="0" width="125" height="164"/>
+</TextureAtlas>

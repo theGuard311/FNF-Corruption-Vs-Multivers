@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Asriel.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sans DOWN NOTE 10000" x="1755" y="0" width="125" height="163"/>
+	<SubTexture name="Sans DOWN NOTE 10001" x="1755" y="0" width="125" height="163"/>
+	<SubTexture name="Sans DOWN NOTE 10002" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="Sans DOWN NOTE 10003" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="Sans DOWN NOTE 10004" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="Sans DOWN NOTE 10005" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="Sans DOWN NOTE 10006" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="Sans DOWN NOTE 10007" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="Sans DOWN NOTE 10008" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="Sans DOWN NOTE 10009" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="Sans DOWN NOTE 10010" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="Sans DOWN NOTE 10011" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="Sans DOWN NOTE 10012" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="Sans DOWN NOTE 10013" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="Sans LEFT NOTE 10000" x="0" y="174" width="125" height="163"/>
+	<SubTexture name="Sans LEFT NOTE 10001" x="0" y="174" width="125" height="163"/>
+	<SubTexture name="Sans LEFT NOTE 10002" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="Sans LEFT NOTE 10003" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="Sans LEFT NOTE 10004" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="Sans LEFT NOTE 10005" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="Sans LEFT NOTE 10006" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="Sans LEFT NOTE 10007" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="Sans LEFT NOTE 10008" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="Sans LEFT NOTE 10009" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="Sans LEFT NOTE 10010" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="Sans LEFT NOTE 10011" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="Sans LEFT NOTE 10012" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="Sans LEFT NOTE 10013" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="Sans RIGHT NOTE 10000" x="270" y="174" width="125" height="163"/>
+	<SubTexture name="Sans RIGHT NOTE 10001" x="270" y="174" width="125" height="163"/>
+	<SubTexture name="Sans RIGHT NOTE 10002" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="Sans RIGHT NOTE 10003" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="Sans RIGHT NOTE 10004" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="Sans RIGHT NOTE 10005" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="Sans RIGHT NOTE 10006" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="Sans RIGHT NOTE 10007" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="Sans RIGHT NOTE 10008" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="Sans RIGHT NOTE 10009" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="Sans RIGHT NOTE 10010" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="Sans RIGHT NOTE 10011" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="Sans RIGHT NOTE 10012" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="Sans RIGHT NOTE 10013" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="Sans UP NOTE 10000" x="540" y="174" width="125" height="163"/>
+	<SubTexture name="Sans UP NOTE 10001" x="540" y="174" width="125" height="163"/>
+	<SubTexture name="Sans UP NOTE 10002" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="Sans UP NOTE 10003" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="Sans UP NOTE 10004" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="Sans UP NOTE 10005" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="Sans UP NOTE 10006" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="Sans UP NOTE 10007" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="Sans UP NOTE 10008" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="Sans UP NOTE 10009" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="Sans UP NOTE 10010" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="Sans UP NOTE 10011" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="Sans UP NOTE 10012" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="Sans UP NOTE 10013" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="Sans Idle 0000" x="810" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Idle 0001" x="810" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Idle 0002" x="944" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Idle 0003" x="944" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Idle 0004" x="1078" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Idle 0005" x="1078" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Idle 0006" x="1212" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Idle 0007" x="1212" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Idle 0008" x="1346" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Idle 0009" x="1346" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Idle 0010" x="1480" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Idle 0011" x="1480" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Idle 0012" x="1614" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Idle 0013" x="1614" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Idle 0014" x="1748" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Idle 0015" x="1748" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Idle 0016" x="810" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Idle 0017" x="810" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Idle 0018" x="810" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Idle 0019" x="810" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Dance RIGHT 0000" x="810" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Dance RIGHT 0001" x="810" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Dance RIGHT 0002" x="944" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Dance RIGHT 0003" x="944" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Dance RIGHT 0004" x="1078" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Dance RIGHT 0005" x="1078" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Dance RIGHT 0006" x="1212" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Dance RIGHT 0007" x="1212" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Dance RIGHT 0008" x="1346" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Dance RIGHT 0009" x="1346" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Dance LEFT 0000" x="1346" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Dance LEFT 0001" x="1346" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Dance LEFT 0002" x="1480" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Dance LEFT 0003" x="1480" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Dance LEFT 0004" x="1614" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Dance LEFT 0005" x="1614" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Dance LEFT 0006" x="1748" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Dance LEFT 0007" x="1748" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Dance LEFT 0008" x="810" y="174" width="124" height="163"/>
+	<SubTexture name="Sans Dance LEFT 0009" x="810" y="174" width="124" height="163"/>
+</TextureAtlas>

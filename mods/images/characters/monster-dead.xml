@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lost-dead.png">
+<SubTexture name="LOST Dies0000" x="79" y="384" width="18" height="18" frameX="-63" frameY="-18" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dies0001" x="79" y="384" width="18" height="18" frameX="-62" frameY="-18" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dies0002" x="79" y="384" width="18" height="18" frameX="-64" frameY="-17" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dies0003" x="79" y="384" width="18" height="18" frameX="-63" frameY="-19" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dies0004" x="79" y="384" width="18" height="18" frameX="-61" frameY="-17" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dies0005" x="79" y="384" width="18" height="18" frameX="-64" frameY="-18" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dies0006" x="79" y="384" width="18" height="18" frameX="-63" frameY="-18" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dies0007" x="79" y="384" width="18" height="18" frameX="-63" frameY="-18" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dies0008" x="79" y="384" width="18" height="18" frameX="-63" frameY="-18" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dies0009" x="79" y="384" width="18" height="18" frameX="-63" frameY="-18" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dies0010" x="79" y="384" width="18" height="18" frameX="-63" frameY="-18" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dies0011" x="79" y="384" width="18" height="18" frameX="-63" frameY="-18" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dies0012" x="79" y="384" width="18" height="18" frameX="-63" frameY="-18" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dies0013" x="79" y="384" width="18" height="18" frameX="-63" frameY="-18" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dies0014" x="79" y="384" width="18" height="18" frameX="-63" frameY="-18" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dies0015" x="0" y="0" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dies0016" x="0" y="0" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dies0017" x="0" y="0" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dies0018" x="119" y="0" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dies0019" x="119" y="0" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dies0020" x="119" y="0" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dies0021" x="0" y="96" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dies0022" x="0" y="96" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dies0023" x="0" y="96" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dies0024" x="119" y="96" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dies0025" x="119" y="96" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dies0026" x="119" y="96" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dies0027" x="238" y="0" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dies0028" x="238" y="0" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dies0029" x="238" y="0" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dies0030" x="238" y="96" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dies0031" x="238" y="96" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dies0032" x="238" y="96" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dead loop0000" x="238" y="96" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dead loop0001" x="238" y="96" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dead loop0002" x="238" y="96" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dead loop0003" x="0" y="192" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dead loop0004" x="0" y="192" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dead loop0005" x="0" y="192" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dead loop0006" x="119" y="192" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dead loop0007" x="119" y="192" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dead loop0008" x="119" y="192" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dead loop0009" x="238" y="192" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dead loop0010" x="238" y="192" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dead loop0011" x="238" y="192" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dead loop0012" x="238" y="192" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dead loop0013" x="238" y="192" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dead loop0014" x="119" y="192" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dead loop0015" x="119" y="192" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dead loop0016" x="119" y="192" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dead loop0017" x="0" y="192" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dead loop0018" x="0" y="192" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dead loop0019" x="0" y="192" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dead loop0020" x="238" y="96" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dead loop0021" x="238" y="96" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dead loop0022" x="238" y="96" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dead confirm0000" x="357" y="0" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dead confirm0001" x="357" y="96" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dead confirm0002" x="357" y="192" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dead confirm0003" x="0" y="288" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dead confirm0004" x="119" y="288" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dead confirm0005" x="238" y="288" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dead confirm0006" x="357" y="288" width="119" height="96" frameX="-2" frameY="-3" frameWidth="146" frameHeight="101" />
+<SubTexture name="LOST Dead confirm0007" x="0" y="384" width="79" height="81" frameX="-2" frameY="-18" frameWidth="146" frameHeight="101" />
+</TextureAtlas>
