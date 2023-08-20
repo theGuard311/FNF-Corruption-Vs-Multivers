@@ -1,0 +1,5 @@
+spawning the black box
+
+Value 1: the position (e.g. 200, 500)
+
+Value 2: the size (e.g. 1280, 720)
