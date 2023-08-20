@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"spookeez-terrible",
+			"n-shift",
+			[
+				103,
+				134,
+				178
+			]
+		],
+		[
+			"sanguine-south",
+			"shift-2",
+			[
+				103,
+				134,
+				178
+			]
+		],
+		[
+			"devotion",
+			"shift-5",
+			[
+				103,
+				134,
+				178
+			]
+		],
+		[
+			"invincible",
+			"shift-3",
+			[
+				103,
+				134,
+				178
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "shift",
+	"difficulties": "canon",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "veamos a un viejo amigo",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": false
+}
