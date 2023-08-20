@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Error.png">
+<SubTexture name="Error-Sans0000" x="0" y="0" width="311" height="161" frameX="0" frameY="0" frameWidth="311" frameHeight="161" />
+<SubTexture name="Error-Sans0001" x="0" y="0" width="311" height="161" frameX="0" frameY="0" frameWidth="311" frameHeight="161" />
+<SubTexture name="Error-Sans0002" x="311" y="0" width="309" height="159" frameX="-1" frameY="-1" frameWidth="311" frameHeight="161" />
+<SubTexture name="Error-Sans0003" x="311" y="0" width="309" height="159" frameX="-1" frameY="-1" frameWidth="311" frameHeight="161" />
+<SubTexture name="Error-Sans0004" x="0" y="161" width="309" height="159" frameX="-1" frameY="-1" frameWidth="311" frameHeight="161" />
+<SubTexture name="Error-Sans0005" x="0" y="161" width="309" height="159" frameX="-1" frameY="-1" frameWidth="311" frameHeight="161" />
+<SubTexture name="Error-Sans0006" x="309" y="161" width="309" height="159" frameX="-1" frameY="-1" frameWidth="311" frameHeight="161" />
+<SubTexture name="Error-Sans0007" x="309" y="161" width="309" height="159" frameX="-1" frameY="-1" frameWidth="311" frameHeight="161" />
+</TextureAtlas>

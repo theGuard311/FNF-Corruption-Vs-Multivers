@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DT Extractor-2.png">
+<SubTexture name="DT Extractor-2 0000" x="0" y="0" width="102" height="144" frameX="0" frameY="0" frameWidth="102" frameHeight="144" />
+<SubTexture name="DT Extractor-2 0001" x="0" y="0" width="102" height="144" frameX="0" frameY="0" frameWidth="102" frameHeight="144" />
+<SubTexture name="DT Extractor-2 0002" x="102" y="0" width="102" height="144" frameX="0" frameY="0" frameWidth="102" frameHeight="144" />
+<SubTexture name="DT Extractor-2 0003" x="102" y="0" width="102" height="144" frameX="0" frameY="0" frameWidth="102" frameHeight="144" />
+</TextureAtlas>

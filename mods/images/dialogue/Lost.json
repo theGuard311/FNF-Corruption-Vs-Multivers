@@ -1,0 +1,129 @@
+{
+	"position": [
+		170,
+		100
+	],
+	"dialogue_pos": "left",
+	"no_antialiasing": true,
+	"scale": 2.07,
+	"image": "Lost_Dialogue",
+	"animations": [
+		{
+			"loop_name": "MONIKA NotOK0",
+			"idle_offsets": [
+				21,
+				0
+			],
+			"idle_name": "MONIKA NotOK0",
+			"anim": "feliz",
+			"loop_offsets": [
+				21,
+				0
+			]
+		},
+		{
+			"loop_name": "MONIKA0",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "MONIKA0",
+			"anim": "hablar",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "MONIKA WELL0",
+			"idle_offsets": [
+				35,
+				0
+			],
+			"idle_name": "MONIKA WELL0",
+			"anim": "confuso-2",
+			"loop_offsets": [
+				36,
+				0
+			]
+		},
+		{
+			"loop_name": "MONIKA LOVE0",
+			"idle_offsets": [
+				45,
+				0
+			],
+			"idle_name": "MONIKA LOVE0",
+			"anim": "enojado-2",
+			"loop_offsets": [
+				45,
+				0
+			]
+		},
+		{
+			"loop_name": "MONIKA EXCITED0",
+			"idle_offsets": [
+				41,
+				0
+			],
+			"idle_name": "MONIKA EXCITED0",
+			"anim": "ojos-2",
+			"loop_offsets": [
+				41,
+				1
+			]
+		},
+		{
+			"loop_name": "MONIKA SAD0",
+			"idle_offsets": [
+				18,
+				1
+			],
+			"idle_name": "MONIKA SAD0",
+			"anim": "enojado",
+			"loop_offsets": [
+				18,
+				1
+			]
+		},
+		{
+			"loop_name": "MONIKA CONFUSED0",
+			"idle_offsets": [
+				10,
+				1
+			],
+			"idle_name": "MONIKA CONFUSED0",
+			"anim": "enserio",
+			"loop_offsets": [
+				10,
+				1
+			]
+		},
+		{
+			"loop_name": "MONIKA Hehe0",
+			"idle_offsets": [
+				28,
+				0
+			],
+			"idle_name": "MONIKA Hehe0",
+			"anim": "ojos",
+			"loop_offsets": [
+				28,
+				0
+			]
+		},
+		{
+			"loop_name": "MONIKA HAPPY0",
+			"idle_offsets": [
+				6,
+				0
+			],
+			"idle_name": "MONIKA HAPPY0",
+			"anim": "confuso",
+			"loop_offsets": [
+				6,
+				0
+			]
+		}
+	]
+}
