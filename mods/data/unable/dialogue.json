@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "frisk: Si fuera tu correria lejos de aqui.",
+			"boxState": "normal",
+			"portrait": "no",
+			"speed": 0.05,
+			"sound": "frisk"
+		},
+		{
+			"expression": "talk",
+			"text": "sans: NO",
+			"boxState": "normal",
+			"portrait": "no",
+			"speed": 0.05,
+			"sound": "sans"
+		},
+		{
+			"expression": "talk",
+			"text": "sans: Debo proteger a los demas montruos del subsuelo",
+			"boxState": "normal",
+			"portrait": "no",
+			"speed": 0.05,
+			"sound": "sans"
+		},
+		{
+			"expression": "talk",
+			"text": "frisk: Seras uno de nosotros antes de que lo logres.",
+			"boxState": "normal",
+			"portrait": "no",
+			"speed": 0.05,
+			"sound": "frisk"
+		},
+		{
+			"expression": "enojado-2",
+			"text": "lost: Estas perdiodo, no hay nadie que te ayude...",
+			"boxState": "normal",
+			"portrait": "Lost",
+			"speed": 0.05,
+			"sound": "asriel-adult"
+		}
+	]
+}

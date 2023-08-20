@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "chara",
+			"speed": 0.05,
+			"portrait": "no",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Chara: Tu no eres lost.."
+		},
+		{
+			"sound": "chara",
+			"speed": 0.05,
+			"portrait": "no",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Chara: Que eres y que quieres..."
+		},
+		{
+			"sound": "asriel-adult",
+			"speed": 0.05,
+			"portrait": "no",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lost: Console.Write(Eso no es de tu asunto)"
+		},
+		{
+			"sound": "chara",
+			"speed": 0.05,
+			"portrait": "no",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Chara:..."
+		}
+	]
+}

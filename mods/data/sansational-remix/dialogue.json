@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "sans: . . .",
+			"boxState": "normal",
+			"sound": "sans",
+			"speed": 0.05,
+			"portrait": "no"
+		},
+		{
+			"expression": "talk",
+			"text": "sans: Lost que te paso.",
+			"boxState": "normal",
+			"sound": "sans",
+			"speed": 0.05,
+			"portrait": "no"
+		},
+		{
+			"expression": "feliz",
+			"text": "lost: ........................................................................\\n................................................................................\\n................................................................................",
+			"boxState": "normal",
+			"sound": "asriel-adult",
+			"speed": 0.05,
+			"portrait": "Lost"
+		},
+		{
+			"expression": "talk",
+			"text": "sans: Mas te vale explicarme si no quieres pasar un mal rato.",
+			"boxState": "normal",
+			"sound": "sans",
+			"speed": 0.05,
+			"portrait": "no"
+		},
+		{
+			"expression": "talk",
+			"text": "frisk: Callate y canta.",
+			"boxState": "normal",
+			"sound": "frisk",
+			"speed": 0.05,
+			"portrait": "no"
+		}
+	]
+}

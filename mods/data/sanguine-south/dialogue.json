@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "asriel",
+			"speed": 0.05,
+			"portrait": "no",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "sswap: !!"
+		},
+		{
+			"sound": "asriel",
+			"speed": 0.05,
+			"portrait": "no",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "sswap: Que carajos es esto y porque duele tanto"
+		},
+		{
+			"sound": "asriel-adult",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Lost: Se llama corrupcion..."
+		},
+		{
+			"sound": "asriel-adult",
+			"speed": 0.05,
+			"portrait": "no",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Lost: Y pronte seras parte de ella!!!"
+		},
+		{
+			"sound": "asriel",
+			"speed": 0.05,
+			"portrait": "no",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "sswap: Sabia que algo andaba mal..."
+		},
+		{
+			"sound": "asriel-adult",
+			"speed": 0.05,
+			"portrait": "no",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Lost: Vamos... canta para salvar tu vida... ja ja ja ja."
+		},
+		{
+			"sound": "frisk",
+			"speed": 0.05,
+			"portrait": "no",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Frisk: Creo que llegue tarde..."
+		}
+	]
+}
